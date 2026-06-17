@@ -7,7 +7,7 @@ A minimalist, high-performance, and **100% privacy-first** browser extension for
 
 Official website and more tools: [heretool.com](https://heretool.com)
 
-[简体中文](./README.zh-CN.md) | [Chrome Web Store](https://chromewebstore.google.com/detail/color-picker-simple-fast/ieeiahhjkjfmgmokejcehfblhemegicl)
+[Chrome Web Store](https://chromewebstore.google.com/detail/color-picker-simple-fast/ieeiahhjkjfmgmokejcehfblhemegicl)
 
 ---
 
