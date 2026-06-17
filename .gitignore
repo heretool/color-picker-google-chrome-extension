@@ -1,0 +1,11 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Packaged extension links or zips
+*.zip
+*.crx
