@@ -1,0 +1,17 @@
+{
+  "extName": {
+    "message": "Color Picker - Simple, Fast, and Professional"
+  },
+  "extDesc": {
+    "message": "Simple, fast, and professional webpage color picker. Instantly get HEX, RGB, and HSL codes with one-click copy and history saving."
+  },
+  "title": {
+    "message": "Color Picker"
+  },
+  "pick": {
+    "message": "Pick Color"
+  },
+  "history": {
+    "message": "Color History"
+  }
+}
