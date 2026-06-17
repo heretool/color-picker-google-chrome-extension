@@ -1,7 +1,7 @@
 # Color Picker - Simple, Fast & Privacy-First 🎨
 
 [![Chrome Web Store](https://img.shields.io/chrome-web-store/v/ieeiahhjkjfmgmokejcehfblhemegicl?style=flat-square&color=4f46e5)](https://chromewebstore.google.com/detail/color-picker-simple-fast/ieeiahhjkjfmgmokejcehfblhemegicl)
-[![License](https://img.shields.io/github/license/your-username/color-picker?style=flat-square&color=7c3aed)](LICENSE)
+[![License](https://img.shields.io/github/license/heretool/color-picker-google-chrome-extensionr?style=flat-square&color=7c3aed)](LICENSE)
 
 A minimalist, high-performance, and **100% privacy-first** browser extension for developers and designers to pick colors from any webpage instantly. Built entirely with Vanilla JS, HTML, and CSS (no heavy frameworks, zero dependencies).
 
